@@ -5,7 +5,7 @@ let config = {
   "links": [
     {
       "Title": "Website",
-      "URL": "http://shuaibhayat.tk",
+      "URL": "https://shuaibhayat.tk",
       "icon_classes": "fas fa-link",
     },
     {
