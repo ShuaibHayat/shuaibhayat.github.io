@@ -1,7 +1,7 @@
 let config = {
   "Title": "Shuaib Hayat - Links",
   "Name": "Shuaib Hayat",
-  "Description": "Software Developer / BSc (Hons) Computer Science Graduate",
+  "Description": "BSc (Hons) Computer Science Graduate",
   "links": [
     {
       "Title": "Website",
